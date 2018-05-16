@@ -9,6 +9,5 @@ It contains or will contain the follow parts:
 
 The program language of the  textbook is Java, To improve the coding ability, I change it to C++.
 
-Compilation
-It works under win7 compiled with vs2013 and under unbuntu 16.04 with g++( (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609 )
+Compilation : It works under win7 compiled with vs2013 and under unbuntu 16.04 with g++( (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609 )
 
