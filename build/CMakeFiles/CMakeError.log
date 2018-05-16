@@ -1,0 +1,180 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX11 failed with the following output:
+Change Dir: E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_e41ba.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.31101.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/17 0:48:45。
+节点 1 上的项目“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_e41ba.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_e41ba.dir\Debug\”。
+  正在创建目录“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_e41ba.dir\Debug\cmTC_e41ba.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_e41ba.dir\Debug\cmTC_e41ba.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D COMPILER_SUPPORTS_CXX11 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_e41ba.dir\Debug\\" /Fd"cmTC_e41ba.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue   -std=c++11 E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\src.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.31101 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D COMPILER_SUPPORTS_CXX11 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_e41ba.dir\Debug\\" /Fd"cmTC_e41ba.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue   -std=c++11 E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\src.cxx
+  
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++11” [E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_e41ba.vcxproj]
+  src.cxx
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\cmTC_e41ba.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp/Debug/cmTC_e41ba.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp/Debug/cmTC_e41ba.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_e41ba.dir\Debug\src.obj
+  cmTC_e41ba.vcxproj -> E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\cmTC_e41ba.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_e41ba.dir\Debug\cmTC_e41ba.tlog\unsuccessfulbuild”。
+  正在对“cmTC_e41ba.dir\Debug\cmTC_e41ba.tlog\cmTC_e41ba.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_e41ba.vcxproj”(默认目标)的操作。
+
+已成功生成。
+
+“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_e41ba.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  cl : 命令行 warning D9002: 忽略未知选项“-std=c++11” [E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_e41ba.vcxproj]
+
+    1 个警告
+    0 个错误
+
+已用时间 00:00:01.12
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX0X failed with the following output:
+Change Dir: E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_de88f.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.31101.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/17 0:48:46。
+节点 1 上的项目“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_de88f.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_de88f.dir\Debug\”。
+  正在创建目录“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_de88f.dir\Debug\cmTC_de88f.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_de88f.dir\Debug\cmTC_de88f.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D COMPILER_SUPPORTS_CXX0X /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_de88f.dir\Debug\\" /Fd"cmTC_de88f.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue   -std=c++0x E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\src.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.31101 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D COMPILER_SUPPORTS_CXX0X /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_de88f.dir\Debug\\" /Fd"cmTC_de88f.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue   -std=c++0x E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\src.cxx
+  
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++0x” [E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_de88f.vcxproj]
+  src.cxx
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\cmTC_de88f.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp/Debug/cmTC_de88f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp/Debug/cmTC_de88f.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_de88f.dir\Debug\src.obj
+  cmTC_de88f.vcxproj -> E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\cmTC_de88f.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_de88f.dir\Debug\cmTC_de88f.tlog\unsuccessfulbuild”。
+  正在对“cmTC_de88f.dir\Debug\cmTC_de88f.tlog\cmTC_de88f.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_de88f.vcxproj”(默认目标)的操作。
+
+已成功生成。
+
+“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_de88f.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  cl : 命令行 warning D9002: 忽略未知选项“-std=c++0x” [E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_de88f.vcxproj]
+
+    1 个警告
+    0 个错误
+
+已用时间 00:00:00.77
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX11 failed with the following output:
+Change Dir: E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_39a2c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.31101.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/17 0:55:46。
+节点 1 上的项目“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_39a2c.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_39a2c.dir\Debug\”。
+  正在创建目录“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_39a2c.dir\Debug\cmTC_39a2c.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_39a2c.dir\Debug\cmTC_39a2c.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D COMPILER_SUPPORTS_CXX11 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_39a2c.dir\Debug\\" /Fd"cmTC_39a2c.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue   -std=c++11 E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\src.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.31101 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D COMPILER_SUPPORTS_CXX11 /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_39a2c.dir\Debug\\" /Fd"cmTC_39a2c.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue   -std=c++11 E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\src.cxx
+  
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++11” [E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_39a2c.vcxproj]
+  src.cxx
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\cmTC_39a2c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp/Debug/cmTC_39a2c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp/Debug/cmTC_39a2c.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_39a2c.dir\Debug\src.obj
+  cmTC_39a2c.vcxproj -> E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\cmTC_39a2c.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_39a2c.dir\Debug\cmTC_39a2c.tlog\unsuccessfulbuild”。
+  正在对“cmTC_39a2c.dir\Debug\cmTC_39a2c.tlog\cmTC_39a2c.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_39a2c.vcxproj”(默认目标)的操作。
+
+已成功生成。
+
+“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_39a2c.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  cl : 命令行 warning D9002: 忽略未知选项“-std=c++11” [E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_39a2c.vcxproj]
+
+    1 个警告
+    0 个错误
+
+已用时间 00:00:00.82
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORTS_CXX0X failed with the following output:
+Change Dir: E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_acf02.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft(R) 生成引擎版本 12.0.31101.0
+[Microsoft .NET Framework 版本 4.0.30319.42000]
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2018/5/17 0:55:47。
+节点 1 上的项目“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_acf02.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_acf02.dir\Debug\”。
+  正在创建目录“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_acf02.dir\Debug\cmTC_acf02.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_acf02.dir\Debug\cmTC_acf02.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D COMPILER_SUPPORTS_CXX0X /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_acf02.dir\Debug\\" /Fd"cmTC_acf02.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue   -std=c++0x E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\src.cxx
+  用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.31101 版版权所有(C) Microsoft Corporation。  保留所有权利。
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D COMPILER_SUPPORTS_CXX0X /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_acf02.dir\Debug\\" /Fd"cmTC_acf02.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:queue   -std=c++0x E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\src.cxx
+  
+cl : 命令行 warning D9002: 忽略未知选项“-std=c++0x” [E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_acf02.vcxproj]
+  src.cxx
+Link:
+  D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\cmTC_acf02.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp/Debug/cmTC_acf02.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:/Language/C++/Algorithms/build/CMakeFiles/CMakeTmp/Debug/cmTC_acf02.lib" /MACHINE:X86 /SAFESEH   /machine:X86 cmTC_acf02.dir\Debug\src.obj
+  cmTC_acf02.vcxproj -> E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\Debug\cmTC_acf02.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_acf02.dir\Debug\cmTC_acf02.tlog\unsuccessfulbuild”。
+  正在对“cmTC_acf02.dir\Debug\cmTC_acf02.tlog\cmTC_acf02.lastbuildstate”执行 Touch 任务。
+已完成生成项目“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_acf02.vcxproj”(默认目标)的操作。
+
+已成功生成。
+
+“E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_acf02.vcxproj”(默认目标) (1) ->
+(ClCompile 目标) -> 
+  cl : 命令行 warning D9002: 忽略未知选项“-std=c++0x” [E:\Language\C++\Algorithms\build\CMakeFiles\CMakeTmp\cmTC_acf02.vcxproj]
+
+    1 个警告
+    0 个错误
+
+已用时间 00:00:00.78
+
+Source file was:
+int main() { return 0; }
