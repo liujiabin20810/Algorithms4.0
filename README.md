@@ -8,3 +8,6 @@ It contains or will contain the follow parts:
 4. String: investigates specialized algorithms for string processing, including radix sorting, substring search, tries, regular expressions, and data compression.
 
 The program language of the  textbook is Java, To improve the coding ability, I change it to C++.
+
+Compilation : It works under win7 compiled with vs2013 and under unbuntu 16.04 with g++( (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609 )
+
