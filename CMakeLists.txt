@@ -5,6 +5,7 @@ project(algs4)
 add_executable(sortProj1 sort/SortProj.cpp )
 add_executable(sortProj2 sort/PriorityQueue.cpp )
 add_executable(searchProj search/SearchProj.cpp search/SymbolTable.cpp)
+add_executable(graphProj graph/GraphProj.cpp graph/Graph.cpp)
 
 # enable c++11
 include(CheckCXXCompilerFlag)  
